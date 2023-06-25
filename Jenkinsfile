@@ -6,7 +6,7 @@ pipeline {
         maven "maven3"
 	
     }
-*/	
+aaaa*/	
     environment {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
